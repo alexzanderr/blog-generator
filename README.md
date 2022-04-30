@@ -5,7 +5,7 @@
 
 
 
-slack workspace: https://app.slack.com/client/T03EARSAP1N/C03D6FSC78F
+slack: https://app.slack.com/client/T03EARSAP1N/C03D6FSC78F
 
 docs: https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/
 
